@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="yourScore">Your Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="tapME">TAP ME!</string>
+    <string name="gameOverMessage">Times Up! Your score was: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Time Fighter</string>
+    <string name="aboutMessage">Created by Time Fighter. Produced by Time Fighter. Played by Time Fighter. Directed by Time Fighter. Named after Time Fighter. Likes to fight Time Fighter. Is a Time Fighter.</string>
+</resources>
